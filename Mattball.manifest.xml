@@ -1,0 +1,13 @@
+<manifest>
+    <main-class>com.mattzabally.scripts.agility.gnome_village.Mattball</main-class>
+    <name>MattBall Gnome Village Agility</name>
+    <description>Runs the Gnome Village Agility course</description>
+    <version>1.0.0</version>
+    <compatibility>
+        <game>OSRS</game>
+    </compatibility>
+    
+    <categories>
+        <category>AGILITY</category>
+    </categories>
+</manifest>
